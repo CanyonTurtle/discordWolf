@@ -1,0 +1,16 @@
+{
+	"name": "discordWolf",
+	"license": "UNLICENSED",
+	"readme": "README.md",
+	"repository" : {
+		"type" : "git",
+		"url" : ""
+	},
+	"dependencies": {
+		"discord.js": "<=8.1.0",
+		"node-wolfram" : "<=0.0.1",
+		"request": "<=2.74.0",
+		"async": "2.0.1"
+	},
+	"main": "bot.js"
+}

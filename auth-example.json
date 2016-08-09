@@ -1,0 +1,6 @@
+{
+	"email" : "your email",
+	"password" : "your discord pass",
+	"wolfram_api_key": "your wolfram api key",
+	"token" : "your discord token (not implemented right now)"
+}
